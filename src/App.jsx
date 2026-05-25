@@ -49,10 +49,9 @@ export default function Portfolio() {
           </h1>
 
        <p className="text-xl text-gray-600 max-w-3xl leading-8">
-  BCA Final Year Student focused on Web Development, APIs,
-  and Software Development. Passionate about building modern
-  applications, solving real-world problems, and continuously
-  improving technical skills.
+  BCA Graduate passionate about Web Development, APIs, and Software Development. 
+  Skilled in building modern applications, solving logical problems, and eager to 
+  contribute to growth-oriented IT organizations with continuously evolving technical expertise.
 </p>
 <br />
 
@@ -94,12 +93,9 @@ export default function Portfolio() {
   About Me
 </h2>
           <p className="text-lg text-gray-600 leading-10">
-            Motivated and detail-oriented BCA final year student
-            seeking an entry-level role in the IT industry.
-            Skilled in programming fundamentals, API integration,
-            debugging, and software development. Passionate about
-            learning modern technologies and solving real-world
-            problems through technology.
+           Motivated and detail-oriented BCA Graduate seeking an entry-level role in the IT industry. 
+  Skilled in programming fundamentals, API integration, debugging, and software development. 
+  Passionate about learning modern technologies and solving real-world problems through technology.
           </p>
         </div>
       </section>
@@ -129,7 +125,6 @@ export default function Portfolio() {
 
   </div>
 </section>
-
 <br />
       {/* EDUCATION */}
       <section className="max-w-6xl mx-auto px-6 pb-10">
@@ -149,7 +144,7 @@ export default function Portfolio() {
 
   <div className="border-l-4 border-black pl-6">
     <p className="text-lg font-semibold">
-      BCA (Final Year)
+     BCA (Bachelor of Computer Applications)
     </p>
 
     <p className="text-lg text-gray-600 mt-1">
